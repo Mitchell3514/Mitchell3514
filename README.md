@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from The Netherlands</h3>
+<h3 align="center">A passionate backend developer from The Netherlands</h3>
 
 - 🔭 I’m currently working on [Pollux](https://pollux.gg)
 
