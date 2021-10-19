@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects will be available at [https://mitchells.work](https://mitchells.work) (currently hosting uni project)
-
 - 💬 Ask me about **TS/JS**
 
 - 📫 How to reach me **contact@mitchells.eu**
