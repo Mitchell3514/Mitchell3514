@@ -1,8 +1,8 @@
 <h3 align="center">A passionate backend developer from The Netherlands</h3>
 
-- 🔭 I’m currently working on [Pollux](https://pollux.gg)
+- 🔭 I’m currently working on [Packhunt](https://packhunt.io)
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently studying **Computer Science & Engineering**
 
 - 💬 Ask me about **TS/JS**
 
